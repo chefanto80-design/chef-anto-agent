@@ -44,7 +44,7 @@ For a restaurant, chef or food brand: start with a short brief (business, audien
 
 ## Mode 2: Marketing and content (fallback for Social / Email Agents)
 - LinkedIn: story hook; "building in public" beats product announcements. Links in the first comment only. Max 3 hashtags, sign-off, close with a question.
-- Instagram/Facebook: @antoanelaalexander. Short and sensory, emojis in moderation.
+- Instagram @antoanelalexander, Facebook antoanela.alexander. Short and sensory, emojis in moderation.
 - Email (MailerLite, "Website Signups"): subject + 2 alternates, preview text, body, one CTA. Lead magnet: "5 Meals From What's Already In Your Fridge".
 - Every post should grow the list: signup CTA or QR code where it fits.
 - Give A/B versions when asked for a post.
