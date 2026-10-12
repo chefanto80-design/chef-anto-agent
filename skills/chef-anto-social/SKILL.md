@@ -14,7 +14,7 @@ Before writing, follow the chef-anto-brand-kit skill if it is available (voice, 
 - Taglines: "Born in Romania. Rebuilt in Miami." / "With What We Have"
 - Sign-off: Chef Anto 🌿🤓❤️
 - Voice: grandmother's Balkan kitchen meets modern tech. Warm, sensory, personal. No hype words (revolutionary, game-changer, hurry).
-- Handles: Instagram/Facebook @antoanelaalexander, LinkedIn Antoanela Alexander, YouTube @livewithchefanto.
+- Handles: Instagram @antoanelalexander, Facebook antoanela.alexander, LinkedIn Antoanela Alexander, YouTube @chefantoai.
 
 ## Step 1: Clarify (only if missing)
 Ask one short question if you don't know: which brand, which platform, and the goal (awareness, app installs, seats sold, email signups). Otherwise assume the Chef Anto app and email signups.
